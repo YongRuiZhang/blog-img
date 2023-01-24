@@ -1,0 +1,22 @@
+{
+  "name": "yongruizhang-blogimg",
+  "version": "1.0.1",
+  "description": "我的博客图片仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YongRuiZhang/blog-img.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "yongruizhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YongRuiZhang/blog-img/issues"
+  },
+  "homepage": "https://github.com/YongRuiZhang/blog-img#readme"
+}
